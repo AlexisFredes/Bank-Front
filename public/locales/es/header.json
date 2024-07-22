@@ -1,0 +1,10 @@
+{
+  "HEADER": {
+    "MENU": "Menú"
+  },
+  "USER_MENU": {
+    "CONFIGURATION": "Configuración",
+    "FAQS": "Preguntas frecuentes",
+    "LOG_OUT": "Cerrar sesión"
+  }
+}

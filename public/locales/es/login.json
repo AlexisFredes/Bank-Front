@@ -1,0 +1,17 @@
+{
+  "FORM": {
+    "WELCOME": "Le damos la bienvenida",
+    "TITLE": "¡Hola!",
+    "USER": "Usuario",
+    "ACCOUNT_NUMBER": "Numero de cuenta",
+    "INITIAL_BALANCE": "Saldo inicial",
+    "CREATE_ACCOUNT_BTN": "Crear cuenta",
+    "LOGIN": "Iniciar sesión"
+  },
+  "CREATE_ACCOUNT": {
+    "TITLE": "Ingrese su información",
+    "DESCRIPTION": "al crear tu cuenta no olvides tu usuario y numero de cuenta.",
+    "CREATE": "Crear"
+  }
+}
+  

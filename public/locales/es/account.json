@@ -1,0 +1,17 @@
+{
+  "ACCOUNT": {
+    "TRANSFER": "Transferir",
+    "DEPOSIT": "Depositar"
+  },
+  "BALANCES": {
+    "AVAILABLE_BALANCE": "Disponible"
+  },
+  "DEPOSIT": {
+    "MODAL_TITLE": "Ingresa el importe a Depositar.",
+    "BUTTON_TEXT": "Depositar"
+  },
+  "TRANSFER": {
+    "MODAL_TITLE": "Ingresa el importe a Transferir.",
+    "BUTTON_TEXT": "Transferir"
+  }
+}
