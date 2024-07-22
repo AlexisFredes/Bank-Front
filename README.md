@@ -39,5 +39,7 @@ _y listo._
 
 _si salio todo bien, ya deberia estar el proyecto andando_
 
+[!Video referencial del funcionamiento](https://drive.google.com/file/d/1pYJdZz6fDqZoHQMj6Fn1IQDLy28OpYoh/view?usp=drive_link)
+
 # A tener en cuenta:
 Este proyecto se inicia en el puerto 3000, asegurece que este no este siendo ocupado, en caso que lo sea, tendra que modificar el backend para que escuche el puerto en cual se levanto el front.
