@@ -1,7 +1,7 @@
 # Titulo: MAGOYA FRONT
 # Autor: Alexis Fredes
 
-_Esta aplicación fue desarrollada React , Redux, Next.js, entre otras librerias, para que la aplicacion funcione correctamente se debe levantar para parte del backend correspondiente.
+_Esta aplicación fue desarrollada React , Redux, Next.js, entre otras librerias, para que la aplicacion funcione correctamente se debe levantar la parte del backend correspondiente.
 
 # Tecnologias
 
@@ -17,7 +17,7 @@ _Esta aplicación fue desarrollada React , Redux, Next.js, entre otras librerias
 
 # Clonando repositorio
 
-_Dirigirnos desde consola a donde queremos clonar el repositorio ya se el escritorio
+_Dirigirnos desde consola a donde queremos clonar el repositorio ya sea el escritorio
 o una carpeta de destino y colocaremos el siguiente comando
 
 ```
